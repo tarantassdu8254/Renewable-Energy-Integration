@@ -1,2 +1,1 @@
-# Renewable-Energy-Integration
-Модуль для PHP
+упрощает создание
